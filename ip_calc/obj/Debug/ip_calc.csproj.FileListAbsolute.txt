@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ip_calc\ip_calc\obj\Debug\ip_calc.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ip_calc\ip_calc\obj\Debug\ip_calc.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ip_calc\ip_calc\bin\Debug\ip_calc.exe.config
+C:\Users\User\source\repos\ip_calc\ip_calc\bin\Debug\ip_calc.exe
+C:\Users\User\source\repos\ip_calc\ip_calc\bin\Debug\ip_calc.pdb
+C:\Users\User\source\repos\ip_calc\ip_calc\obj\Debug\ip_calc.exe
+C:\Users\User\source\repos\ip_calc\ip_calc\obj\Debug\ip_calc.pdb
